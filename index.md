@@ -1,6 +1,6 @@
 Jeff来教你学Markdown啦
 =================
-跟着下面走就算你和糖一样傻都能学会
+跟着下面走
 -----------------
 
 [Markdown 教程](https://www.runoob.com/markdown/md-tutorial.html)  
